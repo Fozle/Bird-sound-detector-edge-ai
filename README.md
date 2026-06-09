@@ -59,17 +59,17 @@ Deploy the sensor outdoors, sit indoors, and watch detected birds — with speci
 ### Live Dashboard
 Detected birds appear in real time with species, scientific name, confidence, and timestamp.
 
-![Bird detection dashboard](screenshots/screenshot_1.png)
+![Bird detection dashboard](Screenshots/Screenshot_1.png)
 
 ### ESP32-S3 Serial Monitor
 The firmware captures and streams 3-second audio clips continuously over WiFi.
 
-![ESP32 serial monitor showing audio streaming](screenshots/screenshot_2.png)
+![ESP32 serial monitor showing audio streaming](Screenshots/Screenshot_2.png)
 
 ### Raspberry Pi Server Log
 BirdNET analyzes each incoming clip and reports detections.
 
-![Raspberry Pi server log showing BirdNET analysis](screenshots/screenshot_3.png)
+![Raspberry Pi server log showing BirdNET analysis](Screenshots/Screenshot_3.png)
 
 ## Hardware
 
