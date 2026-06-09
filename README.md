@@ -69,7 +69,7 @@ The firmware captures and streams 3-second audio clips continuously over WiFi.
 ### Raspberry Pi Server Log
 BirdNET analyzes each incoming clip and reports detections.
 
-![Raspberry Pi server log showing BirdNET analysis](Screenshots/Screenshot_3.png)
+![Raspberry Pi server log showing BirdNET analysis](Screenshots/Screenshot_4.png)
 
 ## Hardware
 
